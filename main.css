@@ -165,4 +165,12 @@
   .card-content {
     width: 75%;
   }
+
+  .card-content__header {
+    font-size: 28px;
+  }
+
+  .plan-box {
+    margin: 0.45rem 0;
+  }
 }
